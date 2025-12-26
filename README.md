@@ -18,7 +18,7 @@ Ein automatisiertes Überwachungs-Tool ("Watchdog"), das ServiceNow-Incidents ab
 - Pandas (Datenbereinigung, Berechnung & Excel-Export)
 - PyWin32 (Lokale Outlook-Automatisierung)
 - Python-Dotenv (Sicherheit & Credential-Management)
-- nutzt Windows Task Scheduler zur geplanten Ausführung des Python Skripts
+- Windows Task Scheduler zur stündlichen Ausführung des Python Skripts
 
 
 # Warning per Mail 
