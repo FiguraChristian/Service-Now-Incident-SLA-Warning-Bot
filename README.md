@@ -1,4 +1,4 @@
-# ServiceNow INC SLA Warning Bot
+# ServiceNow Incident SLA Warning Bot
 
 Ein automatisiertes Überwachungs-Tool ("Watchdog"), das ServiceNow-Incidents abruft, SLA-Fristen basierend auf Prioritäten in Echtzeit berechnet und proaktive Warn-E-Mails via Outlook versendet.
 
